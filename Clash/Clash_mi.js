@@ -1,4 +1,4 @@
-// Clash Mi / Mihomo 完整版覆寫腳本 (已修復 JS 正則表達式語法)
+// Clash Mi / Mihomo 完整版覆寫腳本 (已修復地區匹配 Not Found 錯誤與 JS 正則表達式語法)
 
 function main(params) {
   // 1. 取得所有節點名稱
